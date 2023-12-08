@@ -1,16 +1,15 @@
 ```
 Welcome to Zonoia's Github Page
-Kernel 1.0-3 on an x86_64 (/dev/tty0)
+Kernel 1.0-4 on an x86_64 (/dev/tty0)
 
 automatic login: visitor
 
 Current status of Zonoia:
-  - Currently playing with Rust
-  - Working with GraphQL
-  - Regularly hangs out in the Bitburner Discord server
-  - Ask anything about Dev or Ops
-  - Reach by e-mail: altlockg@gmail.com
-  - Pronouns: any you like using
+  - Playing with and learning Ansible
+  - Working with JVM languages and Linux/Unix environments
+  - E-mail is available in the left column
+  - Can also be found on Discord (zonoia)
+  - Happy to discuss any ideas you have regarding dev/ops!
 
 visitor@github:~ > _
 ```
