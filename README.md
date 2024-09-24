@@ -5,7 +5,7 @@ Kernel 1.0-4 on an x86_64 (/dev/tty0)
 automatic login: visitor
 
 Current status of Zonoia:
-  - Playing with and learning Ansible
+  - Digging deeper into OS internals
   - Working with JVM languages and Linux/Unix environments
   - E-mail is available in the left column
   - Can also be found on Discord (zonoia)
